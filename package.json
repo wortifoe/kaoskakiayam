@@ -1,7 +1,10 @@
 {
   "name": "kaoskakiayam",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.1.4",
+    "repository": {
+      "type": "git",
+      "url" : "https://github.com/wortifoe/kaoskakiayam.git"
+    },  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
